@@ -1,5 +1,5 @@
 ## Oi!✋
-#### Eu sou uma estudante do IFTM e atualmente curso o Ensino Médio Integrado - Técnico em Informática.
+#### Meu nome é Ana Júlia, sou uma estudante do IFTM e atualmente curso o Ensino Médio Integrado - Técnico em Informática.
 #### Entre em contato comigo:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/)](https://instagram.com/anajuliamt?igshid=MWM2YjBjM2Q=)
