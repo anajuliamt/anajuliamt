@@ -1,4 +1,4 @@
-## Oi!✋
+## Oi! ✋
 #### Meu nome é Ana Júlia, sou uma estudante do IFTM e atualmente curso o Ensino Médio Integrado - Técnico em Informática.
 #### Entre em contato comigo:
 
@@ -14,14 +14,3 @@
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div>
-
-## Conheça-me um pouco:
-<table style="border: none">
-  <tr>
-    <td><img alt="" src="https://user-images.githubusercontent.com/104026201/204649571-c170b189-2be0-4a88-8411-6c7a1217be28.png" height=60></td>
-    
-  <td>Meus hobbies: <br/>
-    Ler e cozinhar
-  </td>
-  </tr>
-</table>
