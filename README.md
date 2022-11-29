@@ -7,3 +7,9 @@
 ![anajuliamt Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anajuliamt&show_icons=true&theme=tokyonight)
 
 ## O que estou aprendendo:
+
+<div style="display: inline-block"></br/>
+  <img align="center" alt="HTML" src="" />
+  <img align="center" alt="HTML" src="" />
+  <img align="center" alt="HTML" src="" />
+</div>
