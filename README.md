@@ -17,5 +17,5 @@
 
 ## Conheça-me um pouco:
 <div style="display: inline-block">
-  <img alt="" src="https://static9.depositphotos.com/1000956/1134/i/450/depositphotos_11348071-stock-photo-white-beautifuls-chamomiles-on-the.jpg" height=60>
+  <img alt="" src="[https://static9.depositphotos.com/1000956/1134/i/450/depositphotos_11348071-stock-photo-white-beautifuls-chamomiles-on-the.jpg](https://static.thenounproject.com/png/3683675-200.png)" height=60>
 </div>
