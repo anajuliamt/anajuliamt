@@ -17,5 +17,5 @@
 
 ## Conheça-me um pouco:
 <div style="display: inline-block">
-  <img alt="" src="" height=60>
+  <img alt="" src="![image](https://user-images.githubusercontent.com/104026201/204649285-92f3f646-83b4-4a2e-9c06-588e3eec52c1.png)" height=60>
 </div>
