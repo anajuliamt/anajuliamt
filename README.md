@@ -1,4 +1,5 @@
-### Oi! Eu sou a Ana Júlia Trindade ✋
+## Oi! ✋
+### Eu sou
 <sub>Entre em contato comigo: </sub>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/)](https://instagram.com/anajuliamt?igshid=MWM2YjBjM2Q=)
