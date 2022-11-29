@@ -16,9 +16,12 @@
 </div>
 
 ## Conheça-me um pouco:
-<div style="display: inline-block">
-  <img alt="" src="https://user-images.githubusercontent.com/104026201/204649571-c170b189-2be0-4a88-8411-6c7a1217be28.png" height=60>
-  <p>Meus hobbies: <br/>
+<table style="display: inline-block">
+  <tr>
+    <td><img alt="" src="https://user-images.githubusercontent.com/104026201/204649571-c170b189-2be0-4a88-8411-6c7a1217be28.png" height=60></td>
+    
+  <td>Meus hobbies: <br/>
     Ler e cozinhar
-  </p>
-</div>
+  </td>
+  </tr>
+</table>
