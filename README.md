@@ -16,7 +16,7 @@
 </div>
 
 ## Conheça-me um pouco:
-<table style="display: inline-block" "border: none">
+<table style="border: none">
   <tr>
     <td><img alt="" src="https://user-images.githubusercontent.com/104026201/204649571-c170b189-2be0-4a88-8411-6c7a1217be28.png" height=60></td>
     
