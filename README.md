@@ -1,5 +1,5 @@
 ## Oi!✋
-### Eu sou uma estudante do IFTM e atualmente curso o Ensino Médio Integrado - Técnico em Informática.
+#### Eu sou uma estudante do IFTM e atualmente curso o Ensino Médio Integrado - Técnico em Informática.
 <sub>Entre em contato comigo: </sub>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/)](https://instagram.com/anajuliamt?igshid=MWM2YjBjM2Q=)
